@@ -6,7 +6,6 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        Weather react
         <Weather defaultCity="Simferopol" />
         <footer>
           <small>
