@@ -6,14 +6,14 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        Weather App
+        Weather react
         <Weather defaultCity="Simferopol" />
         <footer>
           <small>
             <a
               href="https://github.com/iryna-ag/week4React"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Open-source code
             </a>
